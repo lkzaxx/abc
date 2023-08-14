@@ -17,7 +17,7 @@ https://www.runoob.com/python3/python-math.html
 [3] Python random randint() 方法
 https://www.runoob.com/python3/ref-random-randint.html
 '''
-
+""
 
 '''匯入套件(模組)'''
 import random, math
